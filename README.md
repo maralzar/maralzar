@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://www.linkedin.com/in/maralzar/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -20,7 +20,7 @@
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="Maral" height="30"/></a>
       <a href="https://scholar.google.com/citations?user=DbjoEg0AAAAJ&hl=en" target="blank"><img align="center"
-         src="https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg"
+         src="https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svglogoColor=white"
          alt="Maral" height="30"/></a>
       <a href="https://mailto:maralzarvany@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
