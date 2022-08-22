@@ -19,7 +19,7 @@
       <a href="https://www.linkedin.com/in/maralzar/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="Maral" height="30"/></a>
-      <a href="https://scholar.google.com/citations?user=DbjoEg0AAAAJ&hl=en" target="blank"><img align="center"
+      <a href="https://camo.githubusercontent.com/c41dae28266f7335d0645e67f0c117e4fe10e2155465de0d7c3e3e5827a8f9d7/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f363137323339332f313733363131352f64623631306336342d363335662d313165332d393936342d6232656262323937356632302e706e67" target="blank"><img align="center"
          src="https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svglogoColor=white"
          alt="Maral" height="30"/></a>
       <a href="https://mailto:maralzarvany@gmail.com" target="blank"><img align="center"
