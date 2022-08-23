@@ -48,17 +48,10 @@ Machine learning | Hardware | Computer Vision  Enginner
   <summary>🧮 about</summary>
 <div>
 <h2 align="center">🧮 About this Account</h2>
- <p align="center">
+ <p align="left">
   I am a Machine Learning Engineer with 4+ years of experience developing practical machine learning applications. In Machine Vision, I have designed and developed machine learning and deep learning models. I am fascinated by cutting-edge technology, research, and real-world challenges. I am an insatiable learner and have a strong desire to master new skills and techniques. Finally, I like to think critically and am creative, innovative, and able to cope with difficult situations.
   </p>
-  <p align="center">
-  <a href="github.com/maralzar" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/1999AZZAR/1999AZZAR?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
-  <a href="github.com/maralzar" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/1999AZZAR/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
- </p>
+
 </div>
 </details>
 
