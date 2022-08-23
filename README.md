@@ -13,6 +13,38 @@ Machine learning | Hardware | Computer Vision  Engineer
        alt="snake" /></a>
 </div>
 
+
+
+<details>
+  <summary>🧮 about</summary>
+<div>
+<h2 align="center">🧮 About this Account</h2>
+ <p align="left">
+  I am a Machine Learning Engineer with 4+ years of experience developing practical machine learning applications. In Machine Vision, I have designed and developed machine learning and deep learning models. I am fascinated by cutting-edge technology, research, and real-world challenges. I am an insatiable learner and have a strong desire to master new skills and techniques. Finally, I like to think critically and am creative, innovative, and able to cope with difficult situations.
+  </p>
+
+</div>
+</details>
+
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/maralzar/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maralzar&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="maralzar :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/maralzar/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=maralzar&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=maralzar&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div>    
+</details>
 <details>
 <p align="center">
           <a href="https://github.com/maralzar/">
@@ -49,37 +81,6 @@ Machine learning | Hardware | Computer Vision  Engineer
     </p>
   </samp>
 </div>
-</details>
-
-<details>
-  <summary>🧮 about</summary>
-<div>
-<h2 align="center">🧮 About this Account</h2>
- <p align="left">
-  I am a Machine Learning Engineer with 4+ years of experience developing practical machine learning applications. In Machine Vision, I have designed and developed machine learning and deep learning models. I am fascinated by cutting-edge technology, research, and real-world challenges. I am an insatiable learner and have a strong desire to master new skills and techniques. Finally, I like to think critically and am creative, innovative, and able to cope with difficult situations.
-  </p>
-
-</div>
-</details>
-
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/maralzar/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maralzar&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="maralzar :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/maralzar/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=maralzar&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=maralzar&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
 </details>
 
 <details>
