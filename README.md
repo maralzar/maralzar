@@ -12,6 +12,11 @@ Machine learning | Hardware | Computer Vision  Enginneer
 </div>
 
 <details>
+<p align="center">
+          <a href="https://github.com/maralzar/">
+          <img src="https://acegif.com/wp-content/uploads/gif/unicorn-1.gif" alt="maralzar :: Top Langs" /></a>
+        </p>
+        <p align="center">
   <summary>☎️ contact me</summary>
 <div>
   <samp>
@@ -43,11 +48,7 @@ Machine learning | Hardware | Computer Vision  Enginneer
   </samp>
 </div>
 </details>
-<p align="center">
-          <a href="https://github.com/maralzar/">
-          <img src="https://acegif.com/wp-content/uploads/gif/unicorn-1.gif" alt="maralzar :: Top Langs" /></a>
-        </p>
-        <p align="center">
+
 <details>
   <summary>🧮 about</summary>
 <div>
